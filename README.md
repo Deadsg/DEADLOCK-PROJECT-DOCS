@@ -1,4 +1,4 @@
-## ⚙️ Project Plan: DEADLOCK-NETWORK (Solfunmeme Repo)
+## ⚙️ Project Plan: DEADLOCK-NETWORK
 
 ### 🎯 Core Mission
 
